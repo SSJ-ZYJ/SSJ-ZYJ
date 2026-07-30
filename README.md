@@ -13,19 +13,21 @@ Learning by building, writing, and exploring.
 
 ### GitHub Overview
 
-<div align="center">
+<p align="center">
   <img
-    height="200"
+    height="195"
     align="top"
-    src="https://github-stats-extended.vercel.app/api?username=SSJ-ZYJ&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true&border_radius=0"
-    alt="GitHub Statistics"
+    src="https://github-stats-extended.vercel.app/api?username=SSJ-ZYJ&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
+    alt="Shenshijun's GitHub Stats"
   ><!--
   --><img
-    height="200"
+    height="195"
     align="top"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=SSJ-ZYJ&layout=compact&langs_count=8&card_width=320&theme=prussian&hide_border=true&border_radius=0"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=SSJ-ZYJ&layout=compact&langs_count=8&theme=transparent&hide_border=true"
     alt="Most Used Languages"
   >
+</p>
+
 </div>
 
 ---
