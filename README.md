@@ -23,7 +23,7 @@ Learning by building, writing, and exploring.
   --><img
     height="195"
     align="top"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=SSJ-ZYJ&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=SSJ-ZYJ&layout=compact&langs_count=8&theme=transparent&hide_border=true&hide=Markdown"
     alt="Most Used Languages"
   >
 </p>
