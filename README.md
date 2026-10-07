@@ -1,11 +1,50 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 <div align="center">
 
 ## Hi there 👋, I'm Shenshijun
 
-A Software Engineering Student  
-Learning by building, writing, and exploring.
+A Software Engineering student focused on backend systems,<br>
+open source, and agentic development.
 
-[![Homepage](https://img.shields.io/badge/Home-shenshijun.space-315F82?style=flat-square&logo=safari&logoColor=white&labelColor=182536)](https://www.shenshijun.space) [![Blog](https://img.shields.io/badge/Blog-Tech%20%26%20Life-376F72?style=flat-square&logo=astro&logoColor=white&labelColor=182536)](https://blog.shenshijun.space) [![Documentation](https://img.shields.io/badge/Docs-Neoverse-4B5F89?style=flat-square&logo=readthedocs&logoColor=white&labelColor=182536)](https://docs.shenshijun.space)
+<p align="center">
+  <a href="https://www.shenshijun.space">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/Home-shenshijun.space-0C1727?style=flat&logo=safari&logoColor=38BDF8&labelColor=0C1727"
+      >
+      <img
+        alt="Homepage"
+        src="https://img.shields.io/badge/Home-shenshijun.space-0F172A?style=flat&logo=safari&logoColor=74BAE5&labelColor=0F172A"
+      >
+    </picture>
+  </a>
+  <a href="https://blog.shenshijun.space">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/Blog-Tech%20%26%20Life-0C1727?style=flat&logo=astro&logoColor=3DD6A6&labelColor=0C1727"
+      >
+      <img
+        alt="Blog"
+        src="https://img.shields.io/badge/Blog-Tech%20%26%20Life-0F172A?style=flat&logo=astro&logoColor=34C99A&labelColor=0F172A"
+      >
+    </picture>
+  </a>
+  <a href="https://docs.shenshijun.space">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/Docs-Neoverse-0C1727?style=flat&logo=readthedocs&logoColor=8C9BFF&labelColor=0C1727"
+      >
+      <img
+        alt="Documentation"
+        src="https://img.shields.io/badge/Docs-Neoverse-0F172A?style=flat&logo=readthedocs&logoColor=7C6EE6&labelColor=0F172A"
+      >
+    </picture>
+  </a>
+</p>
 
 </div>
 
@@ -34,6 +73,6 @@ Learning by building, writing, and exploring.
 
 <div align="center">
 
-Building slowly. Learning continuously.
+Explore. Dream. Discover. 🌌
 
 </div>
