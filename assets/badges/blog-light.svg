@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="22" viewBox="0 0 118 22" role="img" aria-label="Blog Tech and Life">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4F9FC"/>
+      <stop offset="1" stop-color="#EAF3F8"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="117" height="21" rx="6" fill="url(#bg)" stroke="#D8E7EF"/>
+  <g transform="translate(4.5 3)" fill="none" stroke="#34C99A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9.7 3.3a1.65 1.65 0 0 1 2.33 2.33L5.25 12.4 2.5 13.5l1.1-2.75Z"/><path d="m8.6 4.4 2.35 2.35"/><path d="M8.25 13.5h5.25"/>
+  </g>
+  <text x="24" y="14.4" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="700">Blog</text>
+  <text x="57" y="14.4" fill="#536A7B" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="500">Tech &amp; Life</text>
+</svg>
